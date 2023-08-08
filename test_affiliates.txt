@@ -1,0 +1,2 @@
+{"affiliate_id": 4, "name": "Affiliate 4", "latitude": "54.3340285", "longitude": "-6.2535495"}
+{"affiliate_id": 5, "name": "Affiliate 5", "latitude": "54.9040285", "longitude": "-6.5035495"}
